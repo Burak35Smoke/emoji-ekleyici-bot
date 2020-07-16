@@ -1,0 +1,27 @@
+{
+  "//1": "describes your app and its dependencies",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "updating this file will download and update your packages",
+  "name": "emoji-ekleyici-bot",
+  "version": "0.0.1",
+  "description": "Burak35 tarafından yapılmış link ile kolay bir şekilde emoji eklenebilen bot.",
+  "main": "oyungezgin.js",
+  "scripts": {
+    "start": "node oyungezgin.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
